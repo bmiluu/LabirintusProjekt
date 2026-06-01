@@ -1,0 +1,9 @@
+[submodule "LabirintusJatek"]
+	path = LabirintusJatek
+	url = https://github.com/bmiluu/LabirintusJatek.git
+[submodule "LabirintusSzerkeszto"]
+	path = LabirintusSzerkeszto
+	url = https://github.com/FMark207/LabirintusSzerkeszto.git
+[submodule "dungeon"]
+	path = dungeon
+	url = https://github.com/SpreadLawyer285/dungeon.git
